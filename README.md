@@ -11,10 +11,10 @@ import pyhtmltext
 pyhtmltext.setTemplate(
     color = "(255, 255, 255)", # White text,
     highlightColor = "(255, 255, 0)", # Yellow <kw>'s 
-    font = "Heavitas.ttf",
-    fontsize = 50
+    fontsize = 100
 )
 
 img = pyhtmltext.text("Test")
+img.save("test.png")
 ```
 [test.png](https://github.com/samirdigital/pyhtmltext/blob/main/example/example.png?raw=true)
