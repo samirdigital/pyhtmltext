@@ -17,3 +17,4 @@ pyhtmltext.setTemplate(
 
 img = pyhtmltext.text("Test")
 ```
+[test.png](https://github.com/samirdigital/pyhtmltext/blob/main/example/example.png?raw=true)
